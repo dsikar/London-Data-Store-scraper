@@ -3,4 +3,10 @@ Returns tab delimited list of datasets available ~ URL\tTitle\tCategory
 
 $ ./londondatastoredatasets.pl
 
+http://london.data.gov.uk/datastore/package/active-people-survey-competition	Active People Survey - Competition	Sport
+http://london.data.gov.uk/datastore/package/active-people-survey-participation	Active People Survey - Participation	Sport
+http://london.data.gov.uk/datastore/package/active-people-survey-satisfaction	Active People Survey - Satisfaction	Sport
+http://london.data.gov.uk/datastore/package/active-people-survey-tuition	Active People Survey - Tuition	Sport
+http://london.data.gov.uk/datastore/package/active-people-survey-volunteering	Active People Survey - Volunteering	Sport
+
 

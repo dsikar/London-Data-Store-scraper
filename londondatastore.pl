@@ -51,16 +51,6 @@ for($i=0;$i<=$#list;$i++)
 	}
 }
 
-my $end;
-
-# get clickthrough url
-# my $start = index($htmlfile, "href=\"") + 6;
-#my $end = index($htmlfile, "\" target=");
-#$url = substr($htmlfile, $start, $end - $start);
-
-
-
-
 sub load_file
 {       my ($path) = @_;
         my $file;
