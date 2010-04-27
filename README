@@ -1,0 +1,6 @@
+London Data Store scraping script.
+Returns tab delimited list of datasets available ~ URL\tTitle\tCategory
+
+$ ./londondatastoredatasets.pl
+
+
